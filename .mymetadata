@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SMS"
+  id="myeclipse.1499441469834"
+  context-root="/SMS"
+  j2ee-spec="5.0"
+  archive="SMS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
